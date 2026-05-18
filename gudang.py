@@ -26,7 +26,7 @@ st.markdown("""
         /* Menggunakan Font Plus Jakarta Sans yang sangat elegan untuk Enterprise */
         @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
         
-        html, body, [class*="css"], .stApp, p, h1, h2, h3, h4, h5, h6, span, div { 
+        html, body, [class*="css"], .stApp, p, h1, h2, h3, h4, h5, h6 { 
             font-family: 'Plus Jakarta Sans', sans-serif !important; 
         }
         
